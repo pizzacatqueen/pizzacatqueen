@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**pizzacatqueen/pizzacatqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 heyo! My name is Aria.(she/her)
 I love creating things and learning i also like cats
 
